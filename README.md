@@ -40,9 +40,10 @@ Files to Package for Standalone
 3. Definitions
 
 For information on deployment terminology, go to
-http://www.mathworks.com/help and select MATLAB Compiler >
-Getting Started > About Application Deployment >
-Deployment Product Terms in the MathWorks Documentation
+http://www.mathworks.com/help 
+and select 
+MATLAB Compiler >Getting Started > About Application Deployment >Deployment 
+Product Terms in the MathWorks Documentation
 Center.
 
 4. Create folder
