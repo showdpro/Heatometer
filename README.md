@@ -3,7 +3,7 @@ This software is a standalone software developed specially for the automatic ana
 
 Heatometer Executable
 
-1. Prerequisites for Deployment 
+# 1. Prerequisites for Deployment 
 
 Verify that version 9.4 (R2018a) of the MATLAB Runtime is installed.   
 If not, you can run the MATLAB Runtime installer.
@@ -23,7 +23,7 @@ For more information about the MATLAB Runtime and the MATLAB Runtime installer, 
 Package and Distribute in the MATLAB Compiler documentation  
 in the MathWorks Documentation Center.
 
-2. Files to Deploy and Package
+# 2. Files to Deploy and Package
 
 Files to Package for Standalone 
 ================================
@@ -37,22 +37,27 @@ Files to Package for Standalone
 
 
 
-3. Definitions
+# 3. Definitions
 
-For information on deployment terminology, go to
-http://www.mathworks.com/help 
-and select 
-MATLAB Compiler >Getting Started > About Application Deployment >Deployment 
-Product Terms in the MathWorks Documentation
-Center.
+For information on deployment terminology, go to:
 
-4. Create folder
+    http://www.mathworks.com/help
+		
+And select:
+
+MATLAB Compiler >Getting Started > About Application Deployment >Deployment Product Terms
+
+in the MathWorks Documentation Center.
+
+# 4. Create folder
+
 In order to run the software successfully create a folders named:
+
 a) "Alpha" this is where the generated csv file will be located
+
 b) "Figures_pdf" this is where the generated pdf file will be located
 
 c) "Figures_fig" this is where the generated fig file will be located
-
 
 d) "Figures_eps" this is where the generated eps file will be located
 
